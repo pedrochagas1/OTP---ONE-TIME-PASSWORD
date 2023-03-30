@@ -1,7 +1,7 @@
 # OTP---ONE-TIME-PASSWORD
 
 
-                                                                        OTP - ONE TIME PASSWORD
+                                                                 OTP - ONE TIME PASSWORD
 
 Uma OTP é usada como parte do processo de autenticação para testar a identidade de um usuário e permitir o acesso a um serviço web ou mobile.
 Este método de autenticação sugere, quais sequências de caracteres e números são desenhadas para serem usadas apenas uma vez e normalmente expiram após alguns minutos ou horas, de acordo com o prazo definido pelo administrador do serviço. Passado o prazo de expiração, a pessoa terá que solicitar uma atualização do código para prosseguir com a sequência de autenticação.
