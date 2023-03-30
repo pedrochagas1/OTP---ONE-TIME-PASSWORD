@@ -9,12 +9,12 @@ Este método de autenticação sugere, quais sequências de caracteres e número
 Essa estratégia de expiração possibilita à OTP gerar um novo código dinâmico para confirmar que a pessoa usando as credenciais é de fato o usuário legítimo e não alguém utilizando as credenciais roubadas. 
 O fato de uma OTP ser única e de curta validade endereça um dos principais problemas de processos de autenticação regulares baseados em senha, isto é, a reutilização de senhas pelos usuários em diferentes sites e serviços. 
 Uma senha regular roubada é passível de uso por fraudadores. Já uma senha de uso único fica vulnerável apenas por um curto período de tempo até a expiração do código. 
-      Em geral, as senhas de uso único chegam para o usuário por um endereço de e-mail ou SMS em um número de telefone previamente cadastrados associados à conta dessa pessoa. 
-Quando uma pessoa tenta fazer login colocando o nome de usuário e a senha, também é possível enviar uma OTP para a conta do usuário como uma etapa de segurança adicional. Assim, o usuário receberá a senha de uso único no número de celular cadastrado na conta via SMS ou e-mail e deverá inserir o número ou a série de caracteres para que o login seja concluído com sucesso.
+      Em geral, as senhas de uso único chegam para o usuário por um endereço de e-mail ou SMS em um número de telefone previamente cadastrados associados à conta dessa pessoa.
 
 
 
-Existem vários tipos de OTPs disponíveis, sendo as mais comuns:
+                                        Existem vários tipos de OTPs disponíveis, sendo as mais comuns:
+                                         
 
 Senhas baseadas em tempo: Senhas geradas com base no relógio do dispositivo que gera a OTP. A cada intervalo de tempo (geralmente 30 segundos), uma nova senha é gerada automaticamente.
 
